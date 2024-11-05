@@ -16,6 +16,49 @@ I am particularly passionate about cybersecurity and its critical role in today�
 
 In every endeavor, I aim to foster a culture of continuous improvement and operational excellence. My goal is to drive impactful technological transformations that deliver lasting value to organisations while making a positive difference and addressing real-world challenges.
 
+## <h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <!-- Programming Languages -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="40"/>
+  </a>
+  
+  <!-- Front-End Development -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="40"/>
+  </a>
+  
+  <!-- Databases -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="40"/>
+  </a>
+  
+  <!-- DevOps -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="40"/>
+  </a>
+
+  <!-- Software -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="40"/>
+  </a>
+  
+  <!-- Frameworks -->
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask" width=“45” height="40"/>
+  </a>
+</p>
+
 ## **Ask Me About**:
 
 * **My Python Projects**: I love exploring the endless possibilities of Python! Whether it's building web applications, automation scripts, or data analysis tools, I'm always eager to discuss coding techniques and best practices.
