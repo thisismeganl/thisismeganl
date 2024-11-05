@@ -16,7 +16,6 @@ I am particularly passionate about cybersecurity and its critical role in todayâ
 
 In every endeavor, I aim to foster a culture of continuous improvement and operational excellence. My goal is to drive impactful technological transformations that deliver lasting value to organisations while making a positive difference and addressing real-world challenges.
 
-
 ## **Ask Me About**:
 
 * **My Python Projects**: I love exploring the endless possibilities of Python! Whether it's building web applications, automation scripts, or data analysis tools, I'm always eager to discuss coding techniques and best practices.
@@ -43,6 +42,7 @@ In every endeavor, I aim to foster a culture of continuous improvement and opera
 - **Email**: [meganbrothers88@gmail.com](mailto:meganbrothers88@gmail.com)
 - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/meganbrothers1/)
 - **GitHub**: [My GitHub Profile](https://github.com/thisismeganl)
+- **Instagram**: [Connect with me on Instagram](https://www.instagram.com/thisismeganl?igsh=d3d6emtmaDI1cHNx&utm_source=qr)
 
 
 ## **My Projects**
